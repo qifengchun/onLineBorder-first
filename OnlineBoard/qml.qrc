@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fonts/Font Awesome 6 Brands-Regular-400.otf</file>
+        <file>fonts/Font Awesome 6 Free-Regular-400.otf</file>
+        <file>fonts/Font Awesome 6 Free-Solid-900.otf</file>
+        <file>image/background1.png</file>
+        <file>image/background2.png</file>
+        <file>image/background3.png</file>
+        <file>image/background.png</file>
+    </qresource>
+</RCC>
